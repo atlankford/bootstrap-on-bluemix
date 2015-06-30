@@ -1,6 +1,6 @@
 # [Bootstrap on Bluemix Seed Starter](http://bluemix.net)
 
-[Bootstrap](bluemixbootstrap.mybluemix.net/) on [Bluemix](bluemixbootstrap.mybluemix.net/) Seed Starter is a bare HTML starter template for [Bootstrap](http://getbootstrap.com/) for deploying on IBM [Bluemix](http://bluemix.net). This seed template is designed to get static Bootstrap sites deployed to IBM Bluemix quickly.
+[Bootstrap](http://bluemixbootstrap.mybluemix.net/) on [Bluemix](http://bluemixbootstrap.mybluemix.net/) Seed Starter is a bare HTML starter template for [Bootstrap](http://getbootstrap.com/) for deploying on IBM [Bluemix](http://bluemix.net). This seed template is designed to get static Bootstrap sites deployed to IBM Bluemix quickly.
 
 
 ## Getting Started
