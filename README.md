@@ -14,17 +14,21 @@
 
 3B) Bluemix Manifest [file](https://github.com/atlankford/bluemix-manifest)
 
-4) CLI Login
+4) Set api endpoint
+
+```
+cf api https://api.ng.bluemix.net
+```
+5) CLI Login
 ```
     cf login
 ```    
 
-5) CLI push code
+6) CLI push code
 ```
     cf push
 ```    
     
-
 ## Bugs and Issues
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/atlankford/bootstrap-on-bluemix-seed/issues) here on GitHub.
